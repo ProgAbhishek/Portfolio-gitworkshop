@@ -1,5 +1,5 @@
 const data = {
-    name: "MY_NAME",
+    name: "Abhisek",
     githubLink: "https://github.com/ProgAbhishek" ,
     email : "tharuabhishek0@gmail.com",
     hobbies : [
